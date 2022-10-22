@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jonathan Chu
 - 👀 I’m interested in data science and fun programming
-- 🌱 I’m currently learning pthon and sql but im really a beginner
+- 🌱 I’m always learning python, SQL, R, SAS and GOLF
 - 💞️ I’m looking to collaborate on something causal and fun
 - 📫 How to reach me here in github
 
