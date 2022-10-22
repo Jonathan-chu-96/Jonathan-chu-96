@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jonathan-chu-96
+- 👋 Hi, I’m Jonathan Chu
 - 👀 I’m interested in data science and fun programming
 - 🌱 I’m currently learning pthon and sql but im really a beginner
 - 💞️ I’m looking to collaborate on something causal and fun
